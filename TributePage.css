@@ -1,0 +1,21 @@
+#title{
+    background: grey;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+}
+img, h1{
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center
+  }
+.container{
+    width: 80%;
+   text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+
+  }
